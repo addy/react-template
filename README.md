@@ -1,4 +1,5 @@
 # React Template
+This repository is a Github Template project!
 
 ### Prerequisites
 1. Node.JS
@@ -6,8 +7,7 @@
 3. VS Code (Obviously optional)
 
 ### Installing
-1. ```git clone https://github.com/addy/react-template.git```
-2. ```cd react-template && yarn install```
+1. ```yarn install```
 
 ### Running dev build
 1. ```yarn start```
