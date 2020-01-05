@@ -14,3 +14,8 @@ This repository is a Github Template project!
 
 ### Building static assets for production
 2. ```yarn build```
+
+## Notes
+1. If you're creating an application, you will probably have an API. So, I've taken the liberty of including an API proxy into the Webpack dev config @ port 5000. For production, I recommend using a reverse proxy through Nginx.
+2. This repo does not tie you to any CSS frameworks. If you choose to use one, I recommend Tailwind.
+3. This repo does not tie you to any testing frameworks. I recommend Jest.
