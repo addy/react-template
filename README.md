@@ -12,6 +12,5 @@
 ### Running dev build
 1. ```yarn start```
 
-### Running production build
-1. ```yarn global add serve```
-2. ```yarn build && serve```
+### Building static assets for production
+2. ```yarn build```
